@@ -12,7 +12,7 @@ Other repositories are likely forks, and code found there is not supported.
 Build & install
 ---------------
 
-You can find more information in our documentation (`docs/install.rst
+You can find more information in our documentation (`docs/install.rst 
 <https://mesa3d.org/install.html>`_), but the recommended way is to use
 Meson (`docs/meson.rst <https://mesa3d.org/meson.html>`_):
 
